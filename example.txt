@@ -1,2 +1,3 @@
-
+<center>
 <p>Dunkins Donut</p>
+</center>
