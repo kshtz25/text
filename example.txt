@@ -1,4 +1,2 @@
-<center>
-<img src="https://s3.amazonaws.com/cms.ipressroom.com/285/files/20188/5baa7f2e2cfac254c46e1309_Dunkin+Logo/Dunkin+Logo_3b565e2c-b54c-43c5-b5e1-96184fc02d04-prv.jpg" />
-</center>
+
 <p>Dunkins Donut</p>
